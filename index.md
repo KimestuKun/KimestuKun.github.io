@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: Home
 ---
 
 # 🔒 Dominic J. Meador's Portfolio
@@ -11,10 +11,11 @@ This site showcases my projects, tools, and experiments in ethical hacking, scri
 ---
 
 ## 🧠 About Me
-- 💻 Proficient in **C/C++** and **Python**  
-- 🌐 Familiar with **JavaScript**, **HTML**, and **scripting (Bash, CMD)**  
-- 🧩 Currently learning **Linux internals** and **security automation**  
-- 🧰 Interested in **forensics**, **network security**, and **reverse engineering**
+
+- 💻 Proficient in C/C++ and Python  
+- 🌐 Familiar with JavaScript, HTML, and scripting (Bash, CMD)  
+- 🧩 Currently learning Linux internals and security automation  
+- 🧰 Interested in forensics, network security, and reverse engineering  
 
 ---
 
@@ -35,6 +36,7 @@ Work-in-progress tool that analyzes web server headers and directory structures.
 ---
 
 ## ⚙️ Tools & Technologies
+
 **Languages:** C/C++, Python, JavaScript, HTML  
 **Scripting:** Bash, CMD  
 **Security Tools:** Nmap, Wireshark, Burp Suite, Metasploit  
@@ -43,6 +45,7 @@ Work-in-progress tool that analyzes web server headers and directory structures.
 ---
 
 ## 🎯 Currently Working On
+
 - Building more automation scripts for Linux  
 - Enhancing Python-based security tools  
 - Exploring Linux privilege escalation and forensics  
@@ -51,8 +54,6 @@ Work-in-progress tool that analyzes web server headers and directory structures.
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOURUSERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
-
-> _"Security is not a product, but a process."_ – Bruce Schneier
