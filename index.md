@@ -1,123 +1,58 @@
 ---
-layout: defualt
+layout: default
+title: "Home"
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 🔒 Dominic J. Meador's Portfolio
 
-[Link to another page](./another-page.html).
+Welcome to my cybersecurity portfolio!  
+This site showcases my projects, tools, and experiments in ethical hacking, scripting, and network defense.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🧠 About Me
+- 💻 Proficient in **C/C++** and **Python**  
+- 🌐 Familiar with **JavaScript**, **HTML**, and **scripting (Bash, CMD)**  
+- 🧩 Currently learning **Linux internals** and **security automation**  
+- 🧰 Interested in **forensics**, **network security**, and **reverse engineering**
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 🚀 Featured Projects
 
-## Header 2
+### 🧾 [Network Recon Tool](https://github.com/YOURUSERNAME/NetworkReconTool)
+A Python-based utility that scans open ports, grabs banners, and checks for basic vulnerabilities.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 🧰 [Log Analyzer](https://github.com/YOURUSERNAME/LogAnalyzer)
+A script that parses and filters system logs to detect anomalies and suspicious patterns.
 
-### Header 3
+### 🕵️ [Encryption Tool](https://github.com/YOURUSERNAME/EncryptionTool)
+A C++ project that demonstrates simple encryption and decryption techniques.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 🧪 [Web Scanner Prototype](https://github.com/YOURUSERNAME/WebScanner)
+Work-in-progress tool that analyzes web server headers and directory structures.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## ⚙️ Tools & Technologies
+**Languages:** C/C++, Python, JavaScript, HTML  
+**Scripting:** Bash, CMD  
+**Security Tools:** Nmap, Wireshark, Burp Suite, Metasploit  
+**Operating Systems:** Kali Linux, Ubuntu, Windows  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## 🎯 Currently Working On
+- Building more automation scripts for Linux  
+- Enhancing Python-based security tools  
+- Exploring Linux privilege escalation and forensics  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## 📫 Connect With Me
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> _"Security is not a product, but a process."_ – Bruce Schneier
