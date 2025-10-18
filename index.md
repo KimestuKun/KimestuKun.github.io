@@ -21,16 +21,16 @@ This site showcases my projects, tools, and experiments in ethical hacking, scri
 
 ## 🚀 Featured Projects
 
-### 🧾 [Network Recon Tool](https://github.com/YOURUSERNAME/NetworkReconTool)
-A Python-based utility that scans open ports, grabs banners, and checks for basic vulnerabilities.
+### 🧾 [Network Simulator](https://github.com/KimestuKun/network-simulation)
+A terminal-based C++ network simulator that models home networks with active nodes, traffic generation, and real-time monitoring.
 
-### 🧰 [Log Analyzer](https://github.com/YOURUSERNAME/LogAnalyzer)
+### 🧰 [Honey Pot](https://github.com/KimestuKun/honey-pot)
 A script that parses and filters system logs to detect anomalies and suspicious patterns.
 
-### 🕵️ [Encryption Tool](https://github.com/YOURUSERNAME/EncryptionTool)
+### 🕵️ [Malware Analysis](https://github.com/KimestuKun/malware-analysis-tooll)
 A C++ project that demonstrates simple encryption and decryption techniques.
 
-### 🧪 [Web Scanner Prototype](https://github.com/YOURUSERNAME/WebScanner)
+### 🧪 [SIEM Tool](https://github.com/KimestuKun/siem-tool)
 Work-in-progress tool that analyzes web server headers and directory structures.
 
 ---
@@ -48,7 +48,8 @@ Work-in-progress tool that analyzes web server headers and directory structures.
 
 - Building more automation scripts for Linux  
 - Enhancing Python-based security tools  
-- Exploring Linux privilege escalation and forensics  
+- Exploring Linux privilege escalation and forensics
+- Woking on google cyber security certification and Security+ CompTIA
 
 ---
 
