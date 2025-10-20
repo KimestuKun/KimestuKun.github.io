@@ -55,6 +55,6 @@ Work-in-progress tool that analyzes web server headers and directory structures.
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOURUSERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
+[![GitHub](https://github.com/KimestuKun)  
+[![LinkedIn](www.linkedin.com/in/dominic-meador-70aaa5224)  
+[![TryHackMe](https://tryhackme.com/p/meadordominic576)
